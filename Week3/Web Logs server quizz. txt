@@ -16,6 +16,8 @@ The toString method is modified to include a String parameter.
 
 The toString method is modified to include the new priority as part of the return String.
 
+Ans - The toString method is modified to include a String parameter.
+
 2. Question 2
 
 Consider the following code for the readFile method of the LogAnalyzer class.
