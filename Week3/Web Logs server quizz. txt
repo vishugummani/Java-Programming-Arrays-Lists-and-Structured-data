@@ -15,6 +15,9 @@ A new getPriority method is created to return the priority.
 The toString method is modified to include a String parameter.
 
 The toString method is modified to include the new priority as part of the return String.
+ 
+ Ans- The toString method is modified to include a String parameter.
+
 
 2. Question 2
 
